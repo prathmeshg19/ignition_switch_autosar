@@ -1,0 +1,14 @@
+#C:\Users\prathmeshg\MATLAB\Projects\MDB_Assignment\MBD_Assignment_autosar_rtw\stub\Rte_MBD_Assignment.h
+#this file contains the list of RTE methods that the profiling must filter out
+-Rte_IRead_enablestate_userinputs_DataElement2
+-Rte_IRead_enablestate_enginedata_DataElement1
+-Rte_IRead_enablestate_enginedata_DataElement2
+-Rte_IRead_enablestate_prerequisites_DataElement1
+-Rte_IRead_enablestate_prerequisites_DataElement2
+-Rte_IRead_ignition_userinputs_DataElement1
+-Rte_IWrite_ignition_outputdata_DataElement1
+-Rte_IWriteRef_ignition_outputdata_DataElement1
+-Rte_IWrite_ignition_outputdata_DataElement2
+-Rte_IWriteRef_ignition_outputdata_DataElement2
+-Rte_IrvIWrite_enablestate_startenable
+-Rte_IrvIRead_ignition_startenable
